@@ -1,0 +1,40 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#yellow_bar {
+    height: 50px;
+    background-color: #fcc603;
+    color: #fcc603;
+}
+
+#style {
+    width: 800px;
+    margin: auto;
+    font-size: 30px;
+    color: black;
+}
+
+#searchbox{
+    justify-content: center;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+}
+
+#cover_space{
+    background-color: white;
+    text-align: center;
+    color:#fcc603;
+}
+
+#profile_pic{
+    justify-content: center;
+}
+
+#menu_buttons{
+    width: 100px;
+    display: inline-block;
+}
